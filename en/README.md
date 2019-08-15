@@ -25,7 +25,7 @@ To enjoy a healthy dessert, just bite or cut the tip of a honey stick. Add delic
 <div class="features">
 <div class="feature">
 <h2>Tasty 🍯</h2>
-  <p>100% натуральный мёд, собранный "от пчел с любовью", наполняет каждую палочку. Вкус и аромат не спутать ни с чем.</p>
+  <p>100% natural honey collected “from bees with love” fills each of our honey stick. Taste and aroma that cannot be confused with anything else.</p>
 </div>
 <div class="feature">
 <h2>Convenient 🐝</h2>
